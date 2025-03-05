@@ -36,7 +36,7 @@ This repository contains **ML models** I developed to solve real-world predictio
 | 🔗 Techniques | Classification Support Vector Machine) |
 | 📈 Evaluation | Accuracy, Precision, Recall, F1-Score |
 | 📥 Output | Diabetes Prediction (Yes/No) |
-| 🔗 Link | [View Project](./Diabetes_predictor/) |
+| 🔗 Link | [View Project](./diabetes_predictor/) |
 
 ---
 
