@@ -19,8 +19,8 @@ This repository contains **ML models** I developed to solve real-world predictio
 | Feature | Description |
 |---|---|
 | 🏡 Problem | Predict the price of a house based on its features (size, location, number of rooms, etc.) |
-| 📊 Dataset | Public housing dataset (e.g., from Kaggle or sklearn) |
-| 🔗 Techniques | Regression (Linear Regression, Decision Tree, Random Forest) |
+| 📊 Dataset | Public of California housing dataset from kaggle |
+| 🔗 Techniques | Regression Linear Regression |
 | 📈 Evaluation | Mean Absolute Error (MAE), Root Mean Square Error (RMSE) |
 | 📥 Output | Predicted House Price |
 | 🔗 Link | [View Project](./House_price_predictor/) |
@@ -33,7 +33,7 @@ This repository contains **ML models** I developed to solve real-world predictio
 |---|---|
 | 🏥 Problem | Predict if a patient is likely to develop diabetes based on health indicators (age, BMI, glucose levels, etc.) |
 | 📊 Dataset | Kaggle Dataset |
-| 🔗 Techniques | Classification (Logistic Regression, Random Forest, Support Vector Machine) |
+| 🔗 Techniques | Classification Support Vector Machine) |
 | 📈 Evaluation | Accuracy, Precision, Recall, F1-Score |
 | 📥 Output | Diabetes Prediction (Yes/No) |
 | 🔗 Link | [View Project](./Diabetes_predictor/) |
