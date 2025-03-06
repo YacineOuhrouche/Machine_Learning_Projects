@@ -41,6 +41,7 @@ This project demonstrates the development of a **machine learning-based model** 
 ---
 
 ## 📊 
- 
+ ![Screenshot 2024-12-23 190247](https://github.com/user-attachments/assets/e9e530e5-c9d2-4f9c-9eff-2d5dfe412c6b)
 
-![Screenshot 2024-12-23 190247](https://github.com/user-attachments/assets/547274df-5fba-491e-97e4-9b5e29a66834)
+
+
