@@ -43,6 +43,6 @@ This project demonstrates the development of a **machine learning model** using 
 
 
 ### Sample 
+![Screenshot 2025-01-14 130635](https://github.com/user-attachments/assets/72ef6523-78a1-41e1-93e3-cc1cb814c17c)
 
 
-![Screenshot 2025-01-14 130635](https://github.com/user-attachments/assets/78009f36-bdc7-4963-bde5-dfeadc438eb0)
